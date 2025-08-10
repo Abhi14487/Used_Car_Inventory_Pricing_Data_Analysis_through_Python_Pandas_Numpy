@@ -1,0 +1,2 @@
+# Used_Car_Inventory_Pricing_Data_Analysis_through_Python_Pandas_Numpy
+Analyzing a real-world used car listings dataset to develop data analysis skills with Pandas, extract business insights, and visualize trends in the automobile market extract meaningful business insights, visualize key trends, and applied foundational techniques for exploratory data analysis (EDA) through Python, Pandas &amp; Numpy.
